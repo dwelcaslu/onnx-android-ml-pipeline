@@ -1,0 +1,14 @@
+tf2onnx1.9.1:â
+i
+x
+(sequential/dense/MatMul/ReadVariableOp:0sequential/dense/MatMul:0sequential/dense/MatMul"MatMul
+?
+sequential/dense/MatMul:0densesequential/dense/Relu"Relutf2onnx*bB(sequential/dense/MatMul/ReadVariableOp:0J0Œ®Ð>¬Æ>kÖ>6‡E?ó;¿„}&¾&Àl?0h¿8êY¿è¨×><â9¾€Íe>Rconverted from sequentialZ
+x
+
+
+b
+dense
+
+
+B
